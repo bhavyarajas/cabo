@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "sessions": {
+        ".read": true,
+        ".write": true
+      }, 
+      "database.rules.json": true
+  }
+}
